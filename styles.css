@@ -1,0 +1,60 @@
+<html>
+<head>
+<style type="text/css">
+/*
+#main
+{
+border-collapse:collapse;
+}
+#main td, #main th 
+{
+font-size:1em;
+border:1px solid #997316;
+padding:3px 7px 2px 7px;
+}
+#main th 
+{
+font-size:1.1em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#997316;
+color:#ffffff;
+}
+#main tr.alt td 
+{
+color:#000000;
+background-color:#EAF2D3;
+}
+*/
+
+
+#main
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin: 45px;
+	width: 480px;
+	text-align: left;
+	border-collapse: collapse;
+}
+#main th
+{
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px 8px;
+	color: #000000;
+}
+#main td
+{
+	padding: 8px;
+	color: #000000;
+}
+#main .alt
+{
+	background: #F0F0F0; 
+}
+
+</style>
+</head>
+

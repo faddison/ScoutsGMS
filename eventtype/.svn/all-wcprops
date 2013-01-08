@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/Scouts/!svn/ver/28/eventtype
+END
+modify_eventtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Scouts/!svn/ver/20/eventtype/modify_eventtype.php
+END
+remove_eventtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Scouts/!svn/ver/20/eventtype/remove_eventtype.php
+END
+validate_eventtype.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Scouts/!svn/ver/17/eventtype/validate_eventtype.js
+END
+input_eventtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Scouts/!svn/ver/20/eventtype/input_eventtype.php
+END
+show_eventtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Scouts/!svn/ver/28/eventtype/show_eventtype.php
+END
+update_eventtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Scouts/!svn/ver/20/eventtype/update_eventtype.php
+END
+form_eventtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Scouts/!svn/ver/20/eventtype/form_eventtype.php
+END
